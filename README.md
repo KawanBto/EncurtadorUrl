@@ -14,6 +14,7 @@
         <ul>
             <li><strong>PHP:</strong> Linguagem de programação backend.</li>
             <li><strong>Laravel (v12.x):</strong> Framework PHP robusto e elegante para o desenvolvimento web.</li>
+            <li><strong>Blade:</strong> Motor de template do Laravel para as views.</li>
             <li><strong>Eloquent ORM:</strong> Mapeamento Objeto-Relacional para interação com o banco de dados.</li>
             <li><strong>MySQL:</strong> Sistema de gerenciamento de banco de dados relacional para armazenar as URLs e seus códigos curtos.</li>
             <li><strong>Composer:</strong> Gerenciador de dependências para PHP.</li>
